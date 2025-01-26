@@ -1,1 +1,1 @@
-float video(int w, int h, int durationMovie, int durationCredits, int fps, char* unit);
+char* compression(const char* input);
